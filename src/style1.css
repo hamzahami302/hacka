@@ -1,0 +1,17 @@
+div{
+    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbor.forbes.com%2Fthumbor%2F960x0%2Fhttps%253A%252F%252Fspecials-images.forbesimg.com%252Fdam%252Fimageserve%252F1040138812%252F960x0.jpg%253Ffit%253Dscale&imgrefurl=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fenriquedans%2F2018%2F03%2F09%2Fwhy-textbooks-and-education-are-to-blame-for-fake-news%2F&docid=-IEf5-lU3FbTZM&tbnid=oNr4Y3WAh9er7M%3A&vet=10ahUKEwjb0ZHVhsDkAhWEQEEAHaWiBF4QMwhIKAAwAA..i&w=960&h=640&bih=657&biw=1366&q=education&ved=0ahUKEwjb0ZHVhsDkAhWEQEEAHaWiBF4QMwhIKAAwAA&iact=mrc&uact=8');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  label {
+    font-size: 30px;
+  }
+  
+  h1 {
+    font-size: 150px;
+    color:lightblue
+  }
+
+  
